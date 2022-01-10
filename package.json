@@ -1,0 +1,22 @@
+{
+  "name": "create-branch-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cbn": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clipboardy": "^2.3.0",
+    "commander": "^6.0.0"
+  },
+  "dependencies": {
+    "simple-git": "^2.41.1"
+  }
+}
